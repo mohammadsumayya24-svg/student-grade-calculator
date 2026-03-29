@@ -11,5 +11,6 @@ This Python project calculates the average marks of a student and assigns a grad
 ## ▶️ How to Run
 ```bash
 python main.py
+MarkDown
 ## output Screenshot
 [output](output.png)
